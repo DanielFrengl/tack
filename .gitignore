@@ -1,0 +1,4 @@
+/tack
+*.db
+*.db-*
+dist/
